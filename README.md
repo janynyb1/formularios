@@ -1,2 +1,2 @@
-# formularios
-validando página de formulario de cadastro com javascript, pagina inicial e cadastro finalizado ( projeto do cursos alura)
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
